@@ -4,7 +4,7 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MORENOG-2&theme=dark&background=0D1117&ring=f97316&fire=f97316&currStreakLabel=f97316)](https://github.com/MORENOG-2)
+
 
 <!--- stats & Trophy (start) src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" -->
 <p align="center">
@@ -14,7 +14,7 @@
 <td width="50%" align="center">
   
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="[https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false](https://streak-stats.demolab.com?user=MORENOG-2&theme=dark&background=0D1117&ring=f97316&fire=f97316&currStreakLabel=f97316))" /> 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=MORENOG-2&theme=dark&background=0D1117&ring=f97316&fire=f97316&currStreakLabel=f97316)](https://github.com/MORENOG-2)
 </td>
 
 <td width="50%" align="center">
