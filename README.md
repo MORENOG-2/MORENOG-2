@@ -13,13 +13,8 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <br></br>
- <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=MORENOG-2&theme=dark&background=0D1117&ring=f97316&fire=f97316&currStreakLabel=f97316)](https://github.com/MORENOG-2) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MORENOG-2&show_icons=true&theme=dark)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=MORENOG-2&theme=dark&background=0D1117&ring=f97316&fire=f97316&currStreakLabel=f97316)](https://github.com/MORENOG-2)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MORENOG-2&layout=compact&theme=dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MORENOG-2&theme=dark)](https://github.com/MORENOG-2)
 </tr>
 </table>
 <!--- stats (end) -->
