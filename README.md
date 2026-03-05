@@ -15,3 +15,6 @@
   </a>
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MORENOG-2...)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MORENOG-2...)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/...)
