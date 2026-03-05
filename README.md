@@ -4,22 +4,6 @@
   </a>
 </p>
 
-
-
-<!--- stats & Trophy (start) src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
- [![GitHub Streak](https://streak-stats.demolab.com?user=MORENOG-2&theme=dark&background=0D1117&ring=f97316&fire=f97316&currStreakLabel=f97316)](https://github.com/MORENOG-2)
-
-</tr>
-</table>
-<!--- stats (end) -->
-
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MORENOG-2&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
