@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=MORENOG-2&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
@@ -6,7 +6,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MORENOG-2&layout=compact&theme=github_dark&hide_border=true&count_private=true)
 
-</div> -->
+</div>
 
 <p align="center">
   <h1> lenguajes </h1>
