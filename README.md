@@ -1,10 +1,3 @@
-<p align="center">
-  <h1> lenguajes </h1>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,css,html,github,py,vscode&perline=14" />
-  </a>
-</p>
-
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=MORENOG-2&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
@@ -14,3 +7,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MORENOG-2&layout=compact&theme=github_dark&hide_border=true&count_private=true)
 
 </div>
+
+<p align="center">
+  <h1> lenguajes </h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,css,html,github,py,vscode&perline=14" />
+  </a>
+</p>
+
