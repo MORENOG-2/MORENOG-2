@@ -16,13 +16,12 @@
 </p>
 
 <p align="center">
-  <div style="text-align: center;">
-    <p>Este párrafo está centrado.</p>
-    <button>Botón centrado</button>
-</div>
-
   <h1> Aplicaciones </h1>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,vscode&perline=14" />
   </a>
 </p>
+<div style="text-align: center;">
+    <p>Este párrafo está centrado.</p>
+    <button>Botón centrado</button>
+</div>
