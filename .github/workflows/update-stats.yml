@@ -2,38 +2,23 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 * * * *'   # cada hora automáticamente
+    - cron: '0 * * * *'
   push:
-    branches: [main]       # también al hacer commit
-  workflow_dispatch:        # permite correrlo manualmente
+    branches: [main]
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v3
 
-      - name: Update GitHub Stats Card
-        uses: anuraghazra/github-readme-stats@latest
-        with:
-          username: MORENOG-2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-
-      - name: Update Streak Stats
-        uses: DenverCoder1/github-readme-streak-stats@main
-        with:
-          user: MORENOG-2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-
-      - name: Commit updated README
+      - name: Commit README
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "⚡ Stats actualizadas automáticamente"
+          git diff --quiet && git diff --staged --quiet || git commit -m "⚡ Stats actualizadas"
           git push
