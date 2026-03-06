@@ -11,14 +11,14 @@
 <p align="center">
   <h1> Lenguajes </h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,css,html,py&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,html,py&perline=14" />
   </a>
 </p>
 
 <p align="center">
 <h1> Aplicaciones </h1>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=arduino,github,vscode&perline=14" />
 </a>
 </p>
 
