@@ -1,4 +1,4 @@
-<h4 align = "center">MORENOG-2 <3. </h4>
+<h4 align = "center">MORENOG-2 <3 </h4>
 
 <div align="center">
   
