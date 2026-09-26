@@ -6,7 +6,7 @@
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MORENOG-2&layout=compact&theme=github_dark&hide_border=true&count_private=true)
 
-</div>
+
 
 <p align="center">
   <h1> Lenguajes </h1>
@@ -22,3 +22,4 @@
 </a>
 </p>
 
+</div>
